@@ -1,0 +1,10 @@
+Flask==3.0.3
+gunicorn==22.0.0
+pandas==2.2.2
+scikit-learn==1.4.2
+joblib==1.4.2
+qrcode==7.4.2
+pillow==10.3.0
+pytz==2024.1
+requests==2.31.0
+Werkzeug==3.0.3

@@ -1,0 +1,214 @@
+{
+    "activity_logs": [
+        {
+            "user": "nimitha",
+            "action": "Scanned Asset IR-DS-IS2062-0714-0720-2040-272010 - RUL: 25.6 Years (Good)",
+            "time": "2026-10-21 12:01:29"
+        },
+        {
+            "user": "nimitha",
+            "action": "Scanned Asset IR-CR-R880-0508-1108-2038-272008 - RUL: 16.07 Years (Good)",
+            "time": "2026-10-21 12:01:12"
+        },
+        {
+            "user": "nimitha",
+            "action": "Scanned Asset IR-XG-CMS-0606-0607-2037-272007 - RUL: 23.15 Years (Good)",
+            "time": "2026-10-21 12:00:43"
+        },
+        {
+            "user": "nimitha",
+            "action": "Scanned Asset IR-RA-EN47-0612-0213-2028-272006 - RUL: 20.73 Years (Good)",
+            "time": "2026-10-21 12:00:22"
+        },
+        {
+            "user": "nimitha",
+            "action": "Scanned Asset IR-HSFG-HSFG88-0119-0120-2045-272005 - RUL: 23.33 Years (Good)",
+            "time": "2026-10-21 12:00:06"
+        },
+        {
+            "user": "nimitha",
+            "action": "Scanned Asset IR-ERC-EN45-1101-0202-2027-272004 - RUL: 0.1 Years (Critical)",
+            "time": "2026-10-21 11:59:35"
+        },
+        {
+            "user": "nimitha",
+            "action": "Scanned Asset IR-RS-R880-0111-0611-2026-272003 - RUL: 0.1 Years (Critical)",
+            "time": "2026-10-21 11:58:54"
+        },
+        {
+            "user": "nimitha",
+            "action": "Marked Asset IR-BP-SGCI500-0103-1203-2018-272002 as Replaced",
+            "time": "2026-10-21 11:58:28"
+        },
+        {
+            "user": "nimitha",
+            "action": "Scanned Asset IR-BP-SGCI500-0103-1203-2018-272002 - RUL: 0.1 Years (Critical)",
+            "time": "2026-10-21 11:58:02"
+        },
+        {
+            "user": "nimitha",
+            "action": "Scanned Asset IR-ERC-EN45-0926-0926-2046-272001 - RUL: 29.85 Years (Good)",
+            "time": "2026-10-21 11:57:27"
+        },
+        {
+            "user": "nimitha",
+            "action": "Logged In (USER)",
+            "time": "2026-10-21 11:56:38"
+        },
+        {
+            "user": "admin",
+            "action": "Logged Out",
+            "time": "2026-10-21 11:56:27"
+        },
+        {
+            "user": "admin",
+            "action": "Created new user account: nimitha (USER)",
+            "time": "2026-10-21 11:55:50"
+        },
+        {
+            "user": "admin",
+            "action": "Logged In (ADMIN)",
+            "time": "2026-10-21 11:55:26"
+        }
+    ],
+    "inventory_data": [
+        {
+            "asset_id": "IR-ERC-EN45-0926-0926-2046-272001",
+            "scanned_by": "nimitha",
+            "track_load": "53.0 GMT, 20.1T",
+            "current_rust": "36\u00b0C, 53% Hum",
+            "predicted_rul": 29.85,
+            "status": "Good",
+            "scan_zone": "Southern Railway (HQ: Chennai Central)",
+            "scan_time": "2026-10-21 11:57:27",
+            "inspector_grade": "Grade 2",
+            "gps_location": "12.800076, 77.706507",
+            "warranty_expiry": "2046 (20 Years Design Life)",
+            "created_by": "nimitha"
+        },
+        {
+            "asset_id": "IR-BP-SGCI500-0103-1203-2018-272002",
+            "scanned_by": "nimitha",
+            "track_load": "53.1 GMT, 21.0T",
+            "current_rust": "33\u00b0C, 54% Hum",
+            "predicted_rul": 0.1,
+            "status": "Replaced",
+            "scan_zone": "South Western Railway (HQ: Hubballi)",
+            "scan_time": "2026-10-21 11:58:02",
+            "inspector_grade": "Grade 4",
+            "gps_location": "11.851223, 75.684814",
+            "warranty_expiry": "2018 (15 Years Design Life)",
+            "created_by": "nimitha",
+            "replacement_date": "2026-10-21 11:58:28",
+            "replaced_by": "nimitha"
+        },
+        {
+            "asset_id": "IR-RS-R880-0111-0611-2026-272003",
+            "scanned_by": "nimitha",
+            "track_load": "64.9 GMT, 21.5T",
+            "current_rust": "42\u00b0C, 46% Hum",
+            "predicted_rul": 0.1,
+            "status": "Critical",
+            "scan_zone": "South Central Railway (HQ: Secunderabad)",
+            "scan_time": "2026-10-21 11:58:54",
+            "inspector_grade": "Grade 4",
+            "gps_location": "19.176301, 77.266846",
+            "warranty_expiry": "2026 (15 Years Design Life)",
+            "created_by": "nimitha"
+        },
+        {
+            "asset_id": "IR-ERC-EN45-1101-0202-2027-272004",
+            "scanned_by": "nimitha",
+            "track_load": "50.1 GMT, 21.1T",
+            "current_rust": "41\u00b0C, 62% Hum",
+            "predicted_rul": 0.1,
+            "status": "Critical",
+            "scan_zone": "Southern Railway (HQ: Chennai Central)",
+            "scan_time": "2026-10-21 11:59:35",
+            "inspector_grade": "Grade 3",
+            "gps_location": "12.865360, 77.971344",
+            "warranty_expiry": "2027 (25 Years Design Life)",
+            "created_by": "nimitha"
+        },
+        {
+            "asset_id": "IR-HSFG-HSFG88-0119-0120-2045-272005",
+            "scanned_by": "nimitha",
+            "track_load": "60.4 GMT, 20.0T",
+            "current_rust": "39\u00b0C, 58% Hum",
+            "predicted_rul": 23.33,
+            "status": "Good",
+            "scan_zone": "North Western Railway (HQ: Jaipur)",
+            "scan_time": "2026-10-21 12:00:06",
+            "inspector_grade": "Grade 1",
+            "gps_location": "25.125393, 76.420898",
+            "warranty_expiry": "2045 (25 Years Design Life)",
+            "created_by": "nimitha"
+        },
+        {
+            "asset_id": "IR-RA-EN47-0612-0213-2028-272006",
+            "scanned_by": "nimitha",
+            "track_load": "50.9 GMT, 20.3T",
+            "current_rust": "34\u00b0C, 47% Hum",
+            "predicted_rul": 20.73,
+            "status": "Good",
+            "scan_zone": "Konkan Railway (HQ: Navi Mumbai)",
+            "scan_time": "2026-10-21 12:00:22",
+            "inspector_grade": "Grade 1",
+            "gps_location": "18.145852, 74.816895",
+            "warranty_expiry": "2028 (15 Years Design Life)",
+            "created_by": "nimitha"
+        },
+        {
+            "asset_id": "IR-XG-CMS-0606-0607-2037-272007",
+            "scanned_by": "nimitha",
+            "track_load": "54.9 GMT, 20.8T",
+            "current_rust": "33\u00b0C, 80% Hum",
+            "predicted_rul": 23.15,
+            "status": "Good",
+            "scan_zone": "South Coast Railway (HQ: Visakhapatnam)",
+            "scan_time": "2026-10-21 12:00:43",
+            "inspector_grade": "Grade 1",
+            "gps_location": "18.625425, 82.397461",
+            "warranty_expiry": "2037 (30 Years Design Life)",
+            "created_by": "nimitha"
+        },
+        {
+            "asset_id": "IR-CR-R880-0508-1108-2038-272008",
+            "scanned_by": "nimitha",
+            "track_load": "68.3 GMT, 20.5T",
+            "current_rust": "33\u00b0C, 52% Hum",
+            "predicted_rul": 16.07,
+            "status": "Good",
+            "scan_zone": "South Eastern Railway (HQ: Kolkata)",
+            "scan_time": "2026-10-21 12:01:12",
+            "inspector_grade": "Grade 1",
+            "gps_location": "23.160563, 86.770020",
+            "warranty_expiry": "2038 (30 Years Design Life)",
+            "created_by": "nimitha"
+        },
+        {
+            "asset_id": "IR-DS-IS2062-0714-0720-2040-272010",
+            "scanned_by": "nimitha",
+            "track_load": "56.8 GMT, 20.6T",
+            "current_rust": "32\u00b0C, 78% Hum",
+            "predicted_rul": 25.6,
+            "status": "Good",
+            "scan_zone": "South Eastern Railway (HQ: Kolkata)",
+            "scan_time": "2026-10-21 12:01:29",
+            "inspector_grade": "Grade 1",
+            "gps_location": "23.160563, 86.770020",
+            "warranty_expiry": "2040 (20 Years Design Life)",
+            "created_by": "nimitha"
+        }
+    ],
+    "settings": {},
+    "users": {
+        "nimitha": {
+            "username": "nimitha",
+            "password": "01012006",
+            "role": "user",
+            "name": "Nimitha",
+            "created_at": "2026-10-21 11:55:50"
+        }
+    }
+}
